@@ -10,4 +10,8 @@
 
 - **transfer_public:** `at1vzqueezugwxs9t3slrd3fxgxuvs3gkg9h9afr0ayz0uuckw8ecps4qw9l5`
 
+- **transfer_private:** `at1g9u64hp8nh0gag3h74wwqfzlpptcu9dwqluhhfskmmtxrshfwcpssk50d7`
+
 - **program name:** `sekinat_token.aleo`
+
+- **Deployment Id:** `aleo19xlw234vckenfcg7mlwhwwkyqyh259jxqpr69xfxfsldeseg8c9qqefp7d`
